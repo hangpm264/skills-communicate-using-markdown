@@ -4,3 +4,4 @@
 #### Of course this is the fourth
 ##### Then the fifth
 ###### Finally the sixth
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
